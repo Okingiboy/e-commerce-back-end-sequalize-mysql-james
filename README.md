@@ -1,4 +1,4 @@
-## Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+## Object-Relational Mapping (ORM) Challenge:e-commerce-back-end-sequalize-mysql-james
 
 ### Description
 
