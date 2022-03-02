@@ -7,29 +7,6 @@
 
 ### App Demo
 
-- Create Schema and Seed data
-
-![](images/demo-6.gif)
-
-- GET routes to return all categories, all products
-
-![](images/demo-1.gif)
-
-- GET routes to return a single category, a single product, and a single tag
-
-![](images/demo-2.gif)
-
-- POST, PUT, and DELETE routes for categories
-
-![](images/demo-3.gif)
-
-- POST, PUT, and DELETE routes for Tags
-
-![](images/demo-4.gif)
-
-- POST, PUT, and DELETE routes for products
-
-![](images/demo-5.gif)
 
 ### User Story
 
